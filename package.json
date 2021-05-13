@@ -1,5 +1,4 @@
-cd ..
-node{
+{
   "name": "website",
   "type": "module",
   "version": "1.0.0",
@@ -20,11 +19,11 @@ node{
   "homepage": "https://github.com/Komal-Pathak11/website#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.12.7"
+    "mongoose": "^5.12.8"
   },
   "devDependencies": {
     "nodemon": "^2.0.7"
